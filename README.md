@@ -25,9 +25,9 @@ The app allows students to track and manage their mental health, offering featur
 - **APIs**: Integration with mental health resources and emergency contacts
 - **Authentication**: Firebase Authentication (for user login and security)
 - **Frameworks**: Bootstrap (for responsive design)
-## 🚀 Live Prototype
+## 🚀 Prototype Link
 
-You can view the live prototype of the app at: [Live Prototype Link]([(https://www.figma.com/design/KGOD7zevMp7isVt2EZtsO1/MENTAL-HEALTH-TRACKER-FOR-STUDENTS?node-id=0-1&p=f&t=V6fPbp0pyAwLWtmk-0)])
+You can view the live prototype of the app on Figma: [Figma Prototype Link](https://www.figma.com/design/KGOD7zevMp7isVt2EZtsO1/MENTAL-HEALTH-TRACKER-FOR-STUDENTS?node-id=0-1&p=f&t=V6fPbp0pyAwLWtmk-0)
 
 
 ## 📂 Project Structure
